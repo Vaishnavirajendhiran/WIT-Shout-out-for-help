@@ -1,0 +1,6 @@
+1. Before running install python3 and and ibm_watson : pip install --upgrade "ibm-watson>=4.4.1"
+2. /recording directory holds all the recordings
+3. script.py fetches the recordings from /recordings and converts them to text.
+4. the output text from script.py is stored in /output directory in json format.
+5. the recordings which has already been converted to text are then moved to /archive directory.
+6. config.py contains all the paths to the directories. Update the paths as per your setup.
