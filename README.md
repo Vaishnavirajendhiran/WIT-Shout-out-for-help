@@ -10,7 +10,7 @@ Component 3: IoT component to connect real time data with cloud. "iot-dashboard"
 
 Component 4: Web application and mobile app with dashboard service. "web-app-dashboard" file has the sample dashboard view
 
-Do watch our video "Hackathon" to understand our idea and concepts
+Do watch our video "https://youtu.be/eRoTo21XQks" to understand our idea and concepts
 
 Note: Due to security reasons we could not share our full working code and we have tried
 our level best to give tough of how each component looks like and the final dashboard
